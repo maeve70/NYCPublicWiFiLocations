@@ -8,7 +8,7 @@ https://data.cityofnewyork.us/Social-Services/Citywide-Public-Computer-Centers/c
 
 Lists all the public locations of citywide public computer centers (this is in addition to the computers at NYCPL, Brooklyn, Bronx, Queens, SI Public Libraries.
 
-My thought process for this dive into this dataset: The Mayor plans to cut the Public Libraries budget, which negatively affects communities for a number of reasons. If you cut the budgets for libraries you're taking away a community hub & resource for people. Libraries have computer workstations for people to use. 
+My thought process for this dive into this dataset: The Mayor plans to cut the Public Libraries budget, which negatively affects communities for a number of reasons. If you cut the budgets for libraries you're taking away a community hub & resource for people. Libraries have computer workstations for people to use for a variety of reasons--learning, job search & application, etc.
 
 
 **21% of NYC households don't have broadband access.** 
